@@ -27,11 +27,15 @@ const config: Config = {
   				DEFAULT: '#1c1c22',
   				foreground: 'hsl(var(--primary-foreground))'
   			},
+			// original hexcode:#1c1c22
+			// rainwater satine hexcode:##88d9d2
   			accent: {
   				DEFAULT: '#00ff99',
   				hover: '#00e187',
   				foreground: 'hsl(var(--accent-foreground))'
   			},
+			// original hexcode:#00ff99
+			// pink hexcode:#FFC0CB
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
