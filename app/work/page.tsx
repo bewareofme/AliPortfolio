@@ -14,7 +14,7 @@ const projects = [
   {
     num: '01',
     category: 'frontend',
-    title: 'project1',
+    title: 'E-learning',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: '/',
@@ -24,7 +24,7 @@ const projects = [
   {
     num: '02',
     category: 'fullstack',
-    title: 'project2',
+    title: 'Auction House',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
     image: '/',
@@ -33,7 +33,7 @@ const projects = [
   },
   {
     num: '03',
-    category: 'fullstack',
+    category: 'ERP system',
     title: 'project3',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
@@ -43,7 +43,7 @@ const projects = [
   },
   {
     num: '04',
-    category: 'fullstack',
+    category: 'Blockchain Tech',
     title: 'project4',
     description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.',
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
